@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=bojovePole\ riadok\ stlpec
+comment0.target=Vybuch(BojovePole,\ int,\ int)
+comment0.text=\r\n\ Kon\u0161truktor\ vytvor\u00ED\ v\u00FDbuch,\ ktor\u00E9ho\ dosah\ plame\u0148a\ je\ 4\ bloky\ do\ v\u0161etk\u00FDch\ \u0161tyroch\ str\u00E1n\r\n\ a\ dok\u00E1\u017Ee\ vn\u00EDma\u0165\ mapu\ na\ z\u00E1klade\ ktorej\ zni\u010D\u00ED\ len\ prv\u00FD\ zni\u010Dite\u013An\u00FD\ blok,\r\n\ ktor\u00FD\ plame\u0148u\ pr\u00EDde\ do\ cesty.\r\n\ \r\n\ @param\ Priradenie\ do\ bojov\u00E9ho\ po\u013Ea,\ s\u00FAradnice\:\ riadok,\ st\u013Apec\r\n
+comment1.params=
+comment1.target=void\ zobrazVybuch()
+comment1.text=\r\n\ Zobraz\u00ED\ v\u00FDbuch\ na\ bojovom\ poli.\r\n
+comment2.params=
+comment2.target=void\ skryVybuch()
+comment2.text=\r\n\ Skryje\ v\u00FDbuch\ na\ bojovom\ poli.\r\n
+comment3.params=
+comment3.target=void\ znicStenu()
+comment3.text=\r\n\ Ak\ je\ na\ bojovom\ poli\ vykreslen\u00FD\ v\u00FDbuch\ zni\u010D\u00ED\ prv\u00E9\ mo\u017En\u00E9\ objekty\ v\ dosahu\ jeho\ plame\u0148ov.\r\n
+comment4.params=riadok\ stlpec
+comment4.target=boolean\ jeTuVybuch(int,\ int)
+comment4.text=\r\n\ Vr\u00E1ti\ hodnotu\ \u010Di\ sa\ na\ danej\ s\u00FAradnici\ nach\u00E1dzaj\u00FA\ plamene\ od\ v\u00FDbuchu.\r\n\ \r\n\ @param\ riadok,\ st\u013Apec\r\n\ @return\ hodnota\ true\ alebo\ false.\r\n
+numComments=5

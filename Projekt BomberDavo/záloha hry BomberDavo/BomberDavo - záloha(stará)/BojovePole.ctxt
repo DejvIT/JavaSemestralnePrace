@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BojovePole()
+comment0.text=\r\n\ Kon\u0161truktor\ vytvor\u00ED\ bojov\u00E9\ pole.\r\n
+comment1.params=
+comment1.target=int\ getPocetRiadkov()
+comment1.text=\r\n\ Vr\u00E1ti\ po\u010Det\ riadokv\r\n
+comment2.params=
+comment2.target=int\ getPocetStlpcov()
+comment2.text=\r\n\ Vr\u00E1ti\ po\u010Det\ st\u013Apcov.\r\n
+comment3.params=riadok\ stlpec
+comment3.target=boolean\ jeTuZnicitelnyObjekt(int,\ int)
+comment3.text=\r\n\ Zis\u0165uje,\ \u010Di\ je\ na\ danom\ mieste\ zni\u010Dite\u013An\u00FD\ objekt.\r\n
+comment4.params=riadok\ stlpec
+comment4.target=boolean\ jeTuNeznicitelnyObjekt(int,\ int)
+comment4.text=\r\n\ Zis\u0165uje,\ \u010Di\ je\ na\ danom\ mieste\ nezni\u010Dite\u013En\u00FD\ objekt;\r\n
+comment5.params=riadok\ stlpec
+comment5.target=void\ skryStenu(int,\ int)
+comment5.text=\r\n\ Skryje\ zni\u010Dite\u013En\u00FA\ stenu\ na\ danom\ mieste.\r\n
+comment6.params=riadok\ stlpec
+comment6.target=void\ zobrazStenu(int,\ int)
+comment6.text=\r\n\ Zobraz\u00ED\ zni\u010Dite\u013En\u00FA\ stenu\ na\ danom\ mieste.\r\n
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pocitadlo()
+comment0.text=\r\n\ Kon\u0161truktor\ vytvor\u00ED\ nov\u00E9\ po\u010Ditadlo\ a\ prirad\u00ED\ ho\ do\ mana\u017E\u00E9ra\ aby\ dan\u00E9\ po\u010Ditadlo\ spravoval.\r\n
+comment1.params=
+comment1.target=int\ tik()
+comment1.text=\r\n\ Met\u00F3da\ tik-tak...\ z\u00E1klad\ \u010Do\ bomba\ potrebuje\ \=>\ \u010Dasova\u010D\ \:-)\r\n
+numComments=2

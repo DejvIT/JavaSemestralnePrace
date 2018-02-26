@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mapa()
+comment1.params=
+comment1.target=int\ getPocetRiadkov()
+comment1.text=MET\u00D3DY
+comment2.params=
+comment2.target=int\ getPocetStlpcov()
+comment3.params=riadok\ stlpec
+comment3.target=boolean\ jeTuZnicitelnyObjekt(int,\ int)
+comment4.params=riadok\ stlpec
+comment4.target=boolean\ jeTuNeznicitelnyObjekt(int,\ int)
+comment5.params=riadok\ stlpec
+comment5.target=void\ skryStenu(int,\ int)
+comment6.params=riadok\ stlpec
+comment6.target=void\ zobrazStenu(int,\ int)
+numComments=7

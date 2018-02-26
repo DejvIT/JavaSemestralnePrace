@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TehlyCasti()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ZnicitelnaStena\r\n\ Vytv\u00E1ra\ objekt\ -\ tehly.\r\n
+comment1.params=
+comment1.target=void\ zobrazTehly()
+comment1.text=\r\n\ Zobraz\u00ED\ dan\u00FD\ objekt\ vytvoren\u00FD\ v\ kon\u0161truktore.\r\n
+comment2.params=
+comment2.target=void\ skryTehly()
+comment2.text=\r\n\ Skryje\ dan\u00FD\ objekt\ vytvoren\u00FD\ v\ kon\u0161truktore.\r\n
+comment3.params=vzdialenost
+comment3.target=void\ posunTehlyVodorovne(int)
+comment3.text=\r\n\ Pos\u00FAva\ objekt\ -\ tehly\ vodorovn\u00FDm\ smerom.\r\n
+comment4.params=vzdialenost
+comment4.target=void\ posunTehlyZvisle(int)
+comment4.text=\r\n\ Pos\u00FAva\ objekt\ -\ tehly\ v\ zvislom\ smere.\r\n
+numComments=5

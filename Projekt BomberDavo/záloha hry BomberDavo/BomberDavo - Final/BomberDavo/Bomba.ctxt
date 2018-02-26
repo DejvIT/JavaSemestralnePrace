@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=riadok\ stlpec
+comment0.target=Bomba(int,\ int)
+comment0.text=\r\n\ Kon\u0161truktor\ vytvor\u00ED\ objekt\ -\ bomba\ v\ danom\ riadku\ a\ st\u013Apci.\r\n\ \r\n\ @param\ riadok,\ st\u013Apec\r\n
+comment1.params=farba
+comment1.target=void\ setFarbaBomby(java.lang.String)
+comment1.text=\r\n\ Zmena\ farby\ po\u017Eadovanej\ pre\ dan\u00E9ho\ Bombermana.\r\n\ D\u00F4vod\ rozpoznania\ vlastnej\ bomby\ na\ bojovom\ poli.\r\n\ \r\n\ Mo\u017En\u00E9\ farby\ na\ v\u00FDber\ s\u00FA\:\r\n\ \u010Derven\u00E1\ -\ red\r\n\ \u017Elt\u00E1\ -\ yellow\r\n\ fialov\u00E1\ -\ magenta\r\n\ \u010Dierna\ -\ black\r\n\ biela\ -\ white\r\n
+comment2.params=
+comment2.target=void\ zobrazBombu()
+comment2.text=\r\n\ Zobraz\u00ED\ bombu\ na\ platne\ v\ danom\ riadku\ a\ st\u013Apci.\r\n
+comment3.params=
+comment3.target=void\ skryBombu()
+comment3.text=\r\n\ Skryje\ bombu\ na\ pl\u00E1tne\ v\ danom\ riadku\ a\ st\u013Apci.\r\n
+comment4.params=
+comment4.target=int\ getAktualnyRiadok()
+comment4.text=\r\n\ Vr\u00E1ti\ aktu\u00E1lny\ riadok,\ v\ ktorom\ sa\ bomba\ nach\u00E1dza.\r\n\ \r\n\ @return\ hodnota\ riadku\ v\ celom\ \u010D\u00EDsle.\r\n
+comment5.params=
+comment5.target=int\ getAktualnyStlpec()
+comment5.text=\r\n\ Vr\u00E1ti\ aktu\u00E1lny\ st\u013Apec,\ v\ ktorom\ sa\ bomba\ nach\u00E1dza.\r\n\ \r\n\ @return\ hodnota\ st\u013Apca\ v\ celom\ \u010D\u00EDsle.\r\n
+comment6.params=riadok\ stlpec
+comment6.target=boolean\ jeTuBomba(int,\ int)
+comment6.text=\r\n\ Vr\u00E1ti\ hodnotu,\ pre\ zistenie,\ \u010Di\ sa\ bomba\ v\ danom\ riadku\ a\ st\u013Apci\ naozaj\ nach\u00E1dza.\r\n\ \r\n\ @param\ riadok,\ st\u013Apec\r\n\ @return\ hodnota\ true\ alebo\ false.\r\n
+numComments=7
